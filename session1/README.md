@@ -37,6 +37,7 @@ Duration | Activity | Resources | Responsible
 - Read over the [Introduction To Data Manual](/manuals/introduction_to_data.pdf) to get familiar with some open data concepts.
 - Set up a Google Alert for a topic of interest.
 - Complete the [PDF Scraping Lab](/labs/data_fundamentals_lab_scraping_data_from_pdfs.pdf) and [Web Scraping Lab](/labs/data_fundamentals_lab_scraping_data_from_the_web.pdf) exercises.
+- **Mandatory**: Review [Turning Promises Into Action: Gender Equality In The 2030 Agenda for Sustainable Development](http://www.unwomen.org/-/media/headquarters/attachments/sections/library/publications/2018/sdg-report-gender-equality-in-the-2030-agenda-for-sustainable-development-2018-en.pdf?la=en&vs=5653) as a group and identify 2 or 3 questions to explore with data for your team project.
 
 
 ## Resources
