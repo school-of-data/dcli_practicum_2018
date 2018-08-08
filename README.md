@@ -53,7 +53,7 @@ Date | Session Number | Description
 - [Data Fundamentals - Introduction to Data](/manuals/introduction_to_data.pdf)
 - [Data Fundamentals - Defining, Finding and Getting Data](/manuals/defining_finding_and_getting_data.pdf)
 - [Data Fundamentals - Verifying, Cleaning and Analysing Data](/manuals/verifying_cleaning_and_analysing_data.pdf)
-
+- [Data Fundamentals - Presenting Data](/manuals/presenting_data.pdf)
 
 ## Online Resources
 - [Visualize This: The FlowingData Guide to Design, Visualization and Statistics ](https://www.amazon.com/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)
