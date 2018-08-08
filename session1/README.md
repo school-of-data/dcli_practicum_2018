@@ -1,33 +1,33 @@
-# Session 1: Data Pipeline, Setup & Introduction to Programming
+# Session 1: Practicum Overview, Quiz Review & Data Pipeline
 
 ## Overview
- - Tuesday, 15th August, 2017
- - Time: 1 – 5 pm
+ - Wednesday, 8th August, 2018
+ - Time: 09:30 – 13:00
 
 #### Objectives
-- [x] Introduce learners to the data pipeline as a framework for working with data.
-- [x] Setup up at least one programming environment (R or Python) on each learner’s laptop 	
-- [ ] Learn the basics syntax of R  necessary to work through the data pipeline. 	
+- [ ] Provide overview of practicum including content, structure and goals
+- [ ] Review the pre-training assessment quiz
+- [ ] Introduce learners to the data pipeline as a framework for working with data.
+- [ ] Define team project or question to explore during practicum.
+- [ ] Assign readings and task for session 2.
 
 #### Outcomes
-- [x] Each learner can explain the data pipeline from their own context to another learner.
-- [x] Each learner has successfully installed R (or Python) programming languages and environments on their laptops.
+- [ ] Each learner can explain the data pipeline from their own context to another learner.
+- [ ] Each learner has successfully installed a spreadsheet software on their laptops.
 - [ ] Each learner can begin using R to create objects, install and load libraries, and use functions to perform calculations and analysis.
 
 ## Session Plan
 
 Duration | Activity | Resources | Responsible
------------- | ---------- | -------- | ---------
-1:00 – 1:20 pm | Overview of Practicum | Learning plan  | Facilitator
-1:20 – 1:40 pm | Data pipeline | [School of Data pipeline](https://schoolofdata.org/methodology/) | All
-1:40 – 2:00 pm | Setting up programming environments |[Setting up R and RStudio for Windows and Mac](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/); [Anaconda Python Distribution Installation](https://docs.continuum.io/anaconda/install/) | All
-2:00 – 2:40 pm | The data pipeline with R | R, Rstudio, [Ghana Health Facilities data](http://data.gov.gh/dataset/health-facilities) | Facilitator
-2:40 – 2:50 pm | Feedback on R process | R, RStudio | All
-2:50 – 3:00 pm | Break | Restroom | All
-3:00 – 3:45 pm | Programming Lab: Self-learning | [Data Carpentry Intro to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) | Fellows
-3:45 – 4:15 pm | Programming Lab: Peer-learning | [Data Carpentry Intro to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) | Fellows
-4:15 – 4:45 pm | Programming Lab: Facilitated Learning | [Data Carpentry Intro to R](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) | All
-4:45 – 5:00 pm | Review and Closing | Learning plan | Facilitator
+------------- | ---------- | -------- | ---------
+09:30 - 09:50 | Introduction | [DCLI Practicum Introduction Slides](https://docs.google.com/presentation/d/1XYAwdjPSdEg8wrYhzduVBqShTgG-Ct5trn6OKv3hJtQ/edit?usp=sharing) | Facilitator
+09:50 – 10:00 | Data pipeline | [School of Data pipeline](https://schoolofdata.org/methodology/) | All
+10:00 – 10:20 | Quiz Review |[Pre-training Assessment Quiz](https://docs.google.com/document/d/1Vr-GdhrQaoL1chzRxckSPDGgxDFqYGQDP7amAT7_7LE/edit?usp=sharing) | Fellows
+10:20 – 11:00 | Finding Data: Google Advanced Search, Google Alerts, Data Portals | [Defining, Finding And Getting Data Manual](/manuals/defining_finding_and_getting_data.pdf) | Facilitator
+11:00 - 11:15 | Break | Restrooms | All
+11:15 – 12:00 | Getting Data: PDF and Web Scraping | [Defining, Finding And Getting Data Manual](/manuals/defining_finding_and_getting_data.pdf) | Fellows
+12:00 – 12:40 | Lab Exercises: PDF and Web Scraping | [PDF Scraping Lab](/labs/data_fundamentals_lab_scraping_data_from_pdfs.pdf), [Web Scraping Lab](/labs/data_fundamentals_lab_scraping_data_from_the_web.pdf) | Fellows
+12:40 – 13:00 | Review and Closing | Learning plan | Facilitator
 
 ## Homework
 - **Complete the [Data Carpentry Intro to R lesson](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html):** this is to make you familiar with the R syntax necessary to work with data in future sessions. Try out each of the syntax and concepts in RStudio and make notes of anything you have questions about.
