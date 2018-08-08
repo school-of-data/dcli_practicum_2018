@@ -25,9 +25,9 @@ Duration | Activity | Resources | Responsible
 10:00 – 10:20 | Quiz Review |[Pre-training Assessment Quiz](https://docs.google.com/document/d/1Vr-GdhrQaoL1chzRxckSPDGgxDFqYGQDP7amAT7_7LE/edit?usp=sharing) | Fellows
 10:20 – 11:00 | Finding Data: Google Advanced Search, Google Alerts, Data Portals | [Defining, Finding And Getting Data Manual](/manuals/defining_finding_and_getting_data.pdf) | Facilitator
 11:00 - 11:15 | Break | Restrooms | All
-11:15 – 12:00 | Getting Data: PDF and Web Scraping | [Defining, Finding And Getting Data Manual](/manuals/defining_finding_and_getting_data.pdf) | Fellows
-12:00 – 12:40 | Lab Exercises: PDF and Web Scraping | [PDF Scraping Lab](/labs/data_fundamentals_lab_scraping_data_from_pdfs.pdf), [Web Scraping Lab](/labs/data_fundamentals_lab_scraping_data_from_the_web.pdf) | Fellows
-12:40 – 13:00 | Review and Closing | Learning plan | Facilitator
+11:15 – 11:45 | Getting Data: PDF and Web Scraping | [Defining, Finding And Getting Data Manual](/manuals/defining_finding_and_getting_data.pdf) | Fellows
+11:45 – 12:45 | Lab Exercises: PDF and Web Scraping | [PDF Scraping Lab](/labs/data_fundamentals_lab_scraping_data_from_pdfs.pdf), [Web Scraping Lab](/labs/data_fundamentals_lab_scraping_data_from_the_web.pdf) | Fellows
+12:45 – 13:00 | Review and Closing | Learning plan | Facilitator
 
 ## Homework
 - **Complete the [Data Carpentry Intro to R lesson](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html):** this is to make you familiar with the R syntax necessary to work with data in future sessions. Try out each of the syntax and concepts in RStudio and make notes of anything you have questions about.
@@ -36,6 +36,4 @@ Duration | Activity | Resources | Responsible
 
 ## Resources
 - [The School of Data Pipeline](https://schoolofdata.org/methodology/)
-- [Setting up R and RStudio for Windows and Mac](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/)
-- [Anaconda Python Distribution Installation](https://docs.continuum.io/anaconda/install/)
-- [Data Carpentry R Setup](http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html)
+- 
