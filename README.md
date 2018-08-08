@@ -35,7 +35,7 @@ Date | Session Number | Description
 ------ | ------------- | -----------
 08-Aug-18 | Session 1 | [Defining, Finding & Getting Data](/session1)
 13-Aug-18 | Session 2 | Data Verification, Cleaning & Analysis
-22-Aug-18 | Session 3 | Data Visualisation
+22-Aug-18 | Session 3 | Data Presentation
 29-Aug-18 | Session 4 | Team Data Project
 
 
