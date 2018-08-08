@@ -59,3 +59,4 @@ Date | Session Number | Description
 - [Visualize This: The FlowingData Guide to Design, Visualization and Statistics ](https://www.amazon.com/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)
 - [Nathan Yau's Flowing Data Blog](https://flowingdata.com/)
 - [Interactive Data Journalism: A One-semester Syllabus](https://source.opennews.org/articles/interactive-data-journalism-one-semester/)
+- [Turning Promises Into Action: Gender Equality In The 2030 Agenda for Sustainable Development](http://www.unwomen.org/-/media/headquarters/attachments/sections/library/publications/2018/sdg-report-gender-equality-in-the-2030-agenda-for-sustainable-development-2018-en.pdf?la=en&vs=5653)
