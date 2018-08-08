@@ -1,6 +1,6 @@
 <img src="/images/scoda_logo.png" width=300/>
 
-# DCLI Professional Practicum
+# 2018 Data Collaboratives for Local Impact (DCLI) Professional Practicum
 The DCLI Professional Practicum is funded by the [Data Collaborative for Local Impact](https://www.mcc.gov/initiatives/initiative/mcc-pepfar-partnership) (DCLI) program, and specifically administered through Data Zetu.   The practicum aims to expose selected fellows to the use of data for decision making through individual program work, work with a host institution that is a leader in data analytics and evidence-based decision making, a joint project and structured training.   The training is a four session programme over the course of 3 weeks designed and delivered by [School of Data](https://schoolofdata.org/) to provide fellows with foundational technical skills to effectively work with data.
 
 ## Content
