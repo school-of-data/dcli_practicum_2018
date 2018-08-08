@@ -33,10 +33,10 @@ This model is adapted from the [African Leadership University Learning Model](ht
 ## Session Outline
 Date | Session Number | Description
 ------ | ------------- | -----------
-08-Aug-18 | Session 1 | [Practicum Overview, Quiz Review & Data Pipeline](/session1)
-13-Aug-18 | Session 2 | [Data Scraping, Data Verification & Cleaning](/session2)
-22-Aug-18 | Session 3 | [Data Visualisation](/session3)
-29-Aug-18 | Session 4 | [Team Data Project](/session4)
+08-Aug-18 | Session 1 | [Defning, Finding & Getting Data](/session1)
+13-Aug-18 | Session 2 | Data Verification, Cleaning & Analysis
+22-Aug-18 | Session 3 | Data Visualisation
+29-Aug-18 | Session 4 | Team Data Project
 
 
 ## Software Installations
@@ -51,11 +51,9 @@ Date | Session Number | Description
 ## Reference Manuals
 - [Data Fundamentals - Introduction to Computer, Web and Spreadsheet Basics](/manuals/introduction_to_computer_web_and_spreadsheet_basics.pdf)
 - [Data Fundamentals - Introduction to Data](/manuals/introduction_to_data.pdf)
-- [Visualize This: The FlowingData Guide to Design, Visualization and Statistics ](https://www.amazon.com/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)
+
 
 ## Online Resources
-- [Data Carpentry Lessons](http://www.datacarpentry.org/lessons/)
+- [Visualize This: The FlowingData Guide to Design, Visualization and Statistics ](https://www.amazon.com/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)
 - [Nathan Yau's Flowing Data Blog](https://flowingdata.com/)
-- [DataCamp Courses](https://www.datacamp.com/courses)
-- [Udacity Data Analytics Courses](https://www.udacity.com/courses/data-analytics)
 - [Interactive Data Journalism: A One-semester Syllabus](https://source.opennews.org/articles/interactive-data-journalism-one-semester/)
