@@ -37,8 +37,7 @@ Duration | Activity | Resources | Responsible
 - Read over the [Introduction To Data Manual](/manuals/introduction_to_data.pdf) to get familiar with some open data concepts.
 - Set up a Google Alert for a topic of interest.
 - Complete the [PDF Scraping Lab](/labs/data_fundamentals_lab_scraping_data_from_pdfs.pdf) and [Web Scraping Lab](/labs/data_fundamentals_lab_scraping_data_from_the_web.pdf) exercises.
--  
--
+
 
 ## Resources
 - [DCLI Practicum Introduction Slides](https://docs.google.com/presentation/d/1XYAwdjPSdEg8wrYhzduVBqShTgG-Ct5trn6OKv3hJtQ/edit?usp=sharing)
