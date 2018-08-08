@@ -40,7 +40,7 @@ Date | Session Number | Description
 
 
 ## Software Installations
-- [Microsoft Excel](https://cran.r-project.org/), [LibreOffice Calc](https://www.libreoffice.org/discover/calc/) or [Google Sheets](https://www.google.com/sheets/about/)
+- [Microsoft Excel](https://products.office.com/en-us/excel), [LibreOffice Calc](https://www.libreoffice.org/discover/calc/) or [Google Sheets](https://www.google.com/sheets/about/)
 - [Google Chrome Browser](https://www.google.com/chrome/browser/desktop/index.html)
 - [Tabula](http://tabula.technology/)
 - [Open Refine](http://openrefine.org/index.html)
