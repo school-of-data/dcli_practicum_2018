@@ -33,7 +33,7 @@ This model is adapted from the [African Leadership University Learning Model](ht
 ## Session Outline
 Date | Session Number | Description
 ------ | ------------- | -----------
-08-Aug-18 | Session 1 | [Defning, Finding & Getting Data](/session1)
+08-Aug-18 | Session 1 | [Defining, Finding & Getting Data](/session1)
 13-Aug-18 | Session 2 | Data Verification, Cleaning & Analysis
 22-Aug-18 | Session 3 | Data Visualisation
 29-Aug-18 | Session 4 | Team Data Project
@@ -51,6 +51,8 @@ Date | Session Number | Description
 ## Reference Manuals
 - [Data Fundamentals - Introduction to Computer, Web and Spreadsheet Basics](/manuals/introduction_to_computer_web_and_spreadsheet_basics.pdf)
 - [Data Fundamentals - Introduction to Data](/manuals/introduction_to_data.pdf)
+- [Data Fundamentals - Defining, Finding and Getting Data](/manuals/defining_finding_and_getting_data.pdf)
+- [Data Fundamentals - Verifying, Cleaning and Analysing Data](/manuals/verifying_cleaning_and_analysing_data.pdf)
 
 
 ## Online Resources
