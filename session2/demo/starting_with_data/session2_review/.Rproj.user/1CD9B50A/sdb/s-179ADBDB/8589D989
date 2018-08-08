@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(data.table)\nflights <- fread(\"https://github.com/arunsrinivasan/flights/wiki/NYCflights14/flights14.csv\")\nflights\n\nDT = data.table(ID=c(\"b\", \"b\", \"b\", \"a\", \"a\", \"c\"),\n                a = 1:6, b = 7:12, c = 13:18)\nDT\n\nclass(DT$ID)\n\nans <- flights[origin == \"JFK\" & month == 6L]\nhead(ans)\n\nans <- flights[order(origin, -dest)]\nhead(ans)\n",
+    "created" : 1504973748038.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2501029281",
+    "id" : "8589D989",
+    "lastKnownWriteTime" : 3474020457861301559,
+    "last_content_update" : 1504976019691,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

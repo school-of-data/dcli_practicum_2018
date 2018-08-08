@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# Download file from figshare website and stored in data folder as \n# portal_data_joined.csv file\ndownload.file(\"https://ndownloader.figshare.com/files/2292169\",\n              \"portal_data_joined.csv\")\n\n# Read saved file into R\nsurveys <- read.csv(\"portal_data_joined.csv\")\n\n# Check out first few rows of data\nhead(surveys)\n\n# See structure of data frame\nstr(surveys)\n\n# Indexing and subsetting data frames\nsurveys[1, 1]\n\nsurveys[1, 6]",
+    "created" : 1503196827210.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2506422267",
+    "id" : "76B4FF3A",
+    "lastKnownWriteTime" : 1503197565,
+    "last_content_update" : 1503278462904,
+    "path" : "~/Documents/work/oki/SCODA/dcli_practicum_2017/session2/demo/starting_with_data/survey.R",
+    "project_path" : "survey.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

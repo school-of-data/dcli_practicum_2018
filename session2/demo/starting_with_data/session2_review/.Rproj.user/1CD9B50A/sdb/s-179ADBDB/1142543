@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# Download survey data set from figshare ####\n# Store on desktop\ndownload.file(\"https://ndownloader.figshare.com/files/2292169\",\n              \"data/survey.csv\")\n\n# Load survey.csv file into data frame called surveys\nsurveys <- read.csv(\"data/survey.csv\")\nsurveys\n\n# View Data ####\n# View top rows of data\nhead(surveys)\n\n#View only the top 3 rows\nhead(surveys, 3)\n\n# View bottom rows of data\ntail(surveys)\n\n# View last 3 rows of data\ntail(surveys, 3)\n\n# Verify Data ####\n# Check the structure of the data frame\nstr(surveys)\n\n# Get the dimensions of the data frame\ndim(surveys)\n\n# show the names of all the columns\nnames(surveys)\n\n# show the names of all the rows\nrownames(surveys)\n\n# Get summary statistics or descriptions of data frame\nsummary(surveys)\n",
+    "created" : 1503422216709.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2809953607",
+    "id" : "1142543",
+    "lastKnownWriteTime" : 1503425954,
+    "last_content_update" : 1504029223622,
+    "path" : "~/Documents/work/oki/SCODA/dcli_practicum_2017/session2/demo/starting_with_data/session2_review/survey.R",
+    "project_path" : "survey.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

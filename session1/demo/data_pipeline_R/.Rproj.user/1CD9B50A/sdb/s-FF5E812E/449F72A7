@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "library(dplyr)\nlibrary(nycflights13)\n\n\n# Filter rows with filter() ####\nfilter(flights, month == 1, day ==1)\n\nslice(flights, 1:10)\n\n# Arrange rows with arrange() ####\narrange(flights, year, month, day)\n\n# use desc() to order a column in descending order\narrange(flights, desc(arr_delay))\n\n# Select columns with select() ####\n# select the year, month and day columns only\nselect(flights, year, month, day)\n\n# select all columns except year, month and day\nselect(flights, -(year:day))\n\n",
+    "created" : 1502809231303.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2136935167",
+    "id" : "449F72A7",
+    "lastKnownWriteTime" : 1492100943,
+    "last_content_update" : 1492100943,
+    "path" : "~/Documents/self_study/practice/dplyr.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

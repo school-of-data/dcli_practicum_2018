@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1507112603073.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ADEB8C35",
+    "lastKnownWriteTime" : 78122064,
+    "last_content_update" : 1507112603073,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CC2B3561",
+        "caption" : "health",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=health&cache_key=CC2B3561",
+        "displayedObservations" : "3756",
+        "environment" : "",
+        "object" : "health",
+        "preview" : "0",
+        "totalObservations" : "3756",
+        "variables" : "8"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

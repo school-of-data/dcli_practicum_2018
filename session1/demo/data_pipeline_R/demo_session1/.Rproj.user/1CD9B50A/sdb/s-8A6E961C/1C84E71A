@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1502821095460.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1C84E71A",
+    "lastKnownWriteTime" : 7503604418359811940,
+    "last_content_update" : 1502821095460,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "5EB464B5",
+        "caption" : "health_facilities",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=health_facilities&cache_key=5EB464B5",
+        "displayedObservations" : 3756,
+        "environment" : "",
+        "object" : "health_facilities",
+        "preview" : 0,
+        "totalObservations" : 3756,
+        "variables" : 8
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# import data",
+    "created" : 1504037217536.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1227579728",
+    "id" : "2D0AEA50",
+    "lastKnownWriteTime" : 1504037268,
+    "last_content_update" : 1504037268,
+    "path" : "~/Documents/work/oki/SCODA/dcli_practicum_2017/session4/demo/oil_palm.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

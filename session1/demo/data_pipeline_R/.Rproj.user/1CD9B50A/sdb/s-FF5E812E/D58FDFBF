@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# Define Question or Problem ####\n# Which region has the highest number of health facilities in Ghana\n\n# Find  ####\n# Link: http://data.gov.gh/sites/default/files/HEALTH%20FACILITIES%20IN%20GHANA.csv\ndata_source <- \"http://data.gov.gh/sites/default/files/HEALTH%20FACILITIES%20IN%20GHANA.csv\"\n\n# Get  ####\nlibrary(readr) # to easily read data into R\nhealth <- read_csv(data_source)\n\n# Verify ####\nView(health) # view and interact with the data in tabular form\n\n# Clean Data ####\n# Skip this section for this demo\n\n# Analyse ####\nlibrary(dplyr) # library for wrangling with data\n# Option 1: Bar Chart\nlibrary(ggplot2) # library for visualising data\nggplot(health, aes(x=Region, y=Type, fill=Ownership)) + geom_bar(stat=\"identity\")\n\n\nhealth_by_region <- health %>%\n\n# Present ####\nlibrary(leaflet)\nm <- leaflet() %>%\n  addTiles() %>%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=health$Longitude, lat=health$Latitude, popup=health$FacilityName)\nm  # Print the map\n\n",
+    "created" : 1502803425090.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "0|29|2|0|\n3|8|6|0|\n7|7|10|0|\n11|9|13|0|\n17|10|25|0|\n26|10|33|0|\n",
+    "hash" : "4246327233",
+    "id" : "D58FDFBF",
+    "lastKnownWriteTime" : 1502816294,
+    "last_content_update" : 1502816302876,
+    "path" : "~/Documents/work/oki/SCODA/dcli_practicum_2017/session1/demo/data_pipeline_R/ghana_health_facilities.R",
+    "project_path" : "ghana_health_facilities.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

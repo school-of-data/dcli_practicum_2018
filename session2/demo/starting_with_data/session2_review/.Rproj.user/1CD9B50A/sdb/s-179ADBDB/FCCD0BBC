@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1504107652708.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FCCD0BBC",
+    "lastKnownWriteTime" : 2321656413901824032,
+    "last_content_update" : 1504107652708,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B2892E11",
+        "caption" : "mtcars",
+        "contentUrl" : "grid_resource/gridviewer.html?env=package%3Adatasets&obj=mtcars&cache_key=B2892E11",
+        "displayedObservations" : 32,
+        "environment" : "package:datasets",
+        "object" : "mtcars",
+        "preview" : 0,
+        "totalObservations" : 32,
+        "variables" : 11
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
