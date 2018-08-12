@@ -34,7 +34,7 @@ This model is adapted from the [African Leadership University Learning Model](ht
 Date | Session Number | Description
 ------ | ------------- | -----------
 08-Aug-18 | Session 1 | [Defining, Finding & Getting Data](/session1)
-13-Aug-18 | Session 2 | Data Verification, Cleaning & Analysis
+13-Aug-18 | Session 2 | [Data Verification, Cleaning & Analysis](/session2)
 22-Aug-18 | Session 3 | Data Presentation
 29-Aug-18 | Session 4 | Team Data Project
 
