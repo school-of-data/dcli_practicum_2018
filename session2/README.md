@@ -28,17 +28,34 @@
 ## Session Outline
 Duration | Activity | Resources | Responsible
 --------- | ---------------| ----------| ----------
-1:00 – 1:15 pm | Recap of Session 1 concepts | [Data Carpentry Intro to R lesson](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) | All
-1:15 – 1:40 pm| Exposure to data scraping| [Introduction to Data Scraping slides](https://docs.google.com/presentation/d/19P17ntS0ZwkcQJvs5DllnirfpOX1dI0N0NlBXuN3skE/edit?usp=sharing) | Facilitator
-1:40 – 2:00 pm | Setting up programming environment | [Tabula](http://tabula.technology/), Chrome Scraper Extension, Webscraper.io, *rvest* |Fellows
-2:00 – 2:20 pm | Demo 1: PDF scraping with Tabula | [School of Data PDF Scraping Tutorial](https://schoolofdata.org/extracting-data-from-pdfs/) |Facilitator
-2:20 – 2:50 pm | Lab 1: PDF Scraping with Tabula Lab | [School of Data PDF Scraping Tutorial](https://schoolofdata.org/extracting-data-from-pdfs/); [2014-2015 TEITI Report](http://www.teiti.or.tz/wp-content/uploads/2017/06/FINAL-TEITI-2014-15-Report.pdf); [2016 Ivorian Parliamentary Election Results](https://www.cei-ci.org/pdf/EDAN2016-RESULTAT-NATIONAL.PDF) |Fellows
-2:50 – 3:10 pm | Demo 2: Web Scraping with Chrome Scraper Extension | [Chrome Scraper Extension](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd/related?hl=en), [Wikipedia List of African Countries by Population](https://en.wikipedia.org/wiki/List_of_African_countries_by_population); [Ivorian Parliamentary Election 2016](https://en.wikipedia.org/wiki/Ivorian_parliamentary_election,_2016) | Facilitator
-3:10 – 3:20 pm | Break | Restroom | All
-3:20 - 3:50 pm | Lab 2: Web Scraping with Chrome Scraper Extension | [Wikipedia List of African Countries by Population](https://en.wikipedia.org/wiki/List_of_African_countries_by_population); [Ivorian Parliamentary Election 2016](https://en.wikipedia.org/wiki/Ivorian_parliamentary_election,_2016) | Fellows
-3:50 – 4:10 pm | Demo 3: Web Scraping with Webscraper.io | WebScraper.io | Facilitator
-4:10 – 4:45 pm | R Programming Lab 2 | [Data Carpentry R Lesson 2: Starting with Data](http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html) | Fellows
-4:45 – 5:00 pm | Review and Closing | Learning plan | Facilitator
+09:30 – 09:45 pm | Recap of Session 1 concepts | [Data Carpentry Intro to R lesson](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) | All
+09:45 – 10:15 | Introduction to Data Verification and Cleaning | [Introduction to Data Verification and Cleaning Slides](https://docs.google.com/presentation/d/1ZFy-y325MgeuvsWg8vTS4YPHwBUuCTxAZ0kl-5ui2tE/edit#slide=id.p4) | Facilitator
+10:15 - 11:00 | Lab Exercise: Data Cleaning with Spreadsheets | [Data Cleaning Lab](/labs/data_fundamentals_lab_data_cleaning.pdf)
+11:00 - 11:15 | Break | Restroom | All
+11:15 - 11:35 | OpenRefine Demo | [OpenRefine](http://openrefine.org/) | Facilitator
+
+
+## Some Data Verification Questions
+-  Source
+    - Who or what is the source of the original data?
+    -  When was the data published?
+    - Is there an official contact or use policy for this data?
+    - How was the data collected: methodology?
+- Meta Data
+  - Are variables or column names explained including with appropriate units?
+  - What assumptions were made from data collection to publishing stages?
+- Values
+  - Does the data have the expected number of rows or observations?
+  - Does the data have the expected number of columns or variables?
+  - Is the distribution of values what is expected?
+  - Is there any outliers?
+  - Are there any missing values in the data?
+  - Do you obtain the expected summary statistics on a given column?
+- Ethics/Privacy
+  - Does the data contain any individually identifiable data?
+  - Are there any ethical concerns about the data?
+
+
 
 ## Lab Exercises
 ### Lab 1: PDF Scraping with Tabula Tabula Lab (30 mins)
