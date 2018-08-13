@@ -28,7 +28,7 @@
 ## Session Outline
 Duration | Activity | Resources | Responsible
 --------- | ---------------| ----------| ----------
-09:30 – 09:45 pm | Recap of Session 1 concepts | [Data Carpentry Intro to R lesson](http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html) | All
+09:30 – 09:45 pm | Recap of Session 1 concepts | [DCLI Practicum Introduction Slides](https://docs.google.com/presentation/d/1XYAwdjPSdEg8wrYhzduVBqShTgG-Ct5trn6OKv3hJtQ/edit?usp=sharing), [The School of Data Pipeline](https://schoolofdata.org/methodology/) | All
 09:45 – 10:15 | Introduction to Data Verification and Cleaning | [Introduction to Data Verification and Cleaning Slides](https://docs.google.com/presentation/d/1ZFy-y325MgeuvsWg8vTS4YPHwBUuCTxAZ0kl-5ui2tE/edit#slide=id.p4) | Facilitator
 10:15 - 11:00 | Lab Exercise: Data Cleaning with Spreadsheets | [Data Cleaning Lab](/labs/data_fundamentals_lab_data_cleaning.pdf)
 11:00 - 11:15 | Break | Restroom | All
