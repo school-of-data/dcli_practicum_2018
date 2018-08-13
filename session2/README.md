@@ -33,6 +33,8 @@ Duration | Activity | Resources | Responsible
 10:15 - 11:00 | Lab Exercise: Data Cleaning with Spreadsheets | [Data Cleaning Lab](/labs/data_fundamentals_lab_data_cleaning.pdf) | Fellows
 11:00 - 11:15 | Break | Restroom | All
 11:15 - 11:35 | OpenRefine Demo | [OpenRefine](http://openrefine.org/) | Facilitator
+11:35 - 12:40 | Lab Exercises | Lab Exercises | Fellows
+12:40 - 13:00 | Group Mini Project | Ideas | Fellows
 
 
 ## Some Data Verification Questions
@@ -58,20 +60,5 @@ Duration | Activity | Resources | Responsible
 
 
 ## Lab Exercises
-### Lab 1: PDF Scraping with Tabula Tabula Lab (30 mins)
-1. Read through and complete [School of Data PDF Scraping Tutorial](https://schoolofdata.org/extracting-data-from-pdfs/). Make any notes of questions you have on Tabula to discuss with a partner in the next step. **[10 mins]**
-2. Find a partner to discuss the steps you took to convert the data from the tutorial into machine-readable format. What is the difference between the Stream and Lattice Extraction Methods in Tabula? **[10 mins]**
-3. Use Tabula to scrape a table of interest from the [2014-2015 TEITI Final Report](http://www.teiti.or.tz/wp-content/uploads/2017/06/FINAL-TEITI-2014-15-Report.pdf), [2016 Ivorian Parliamentary Election Results](https://www.cei-ci.org/pdf/EDAN2016-RESULTAT-NATIONAL.PDF) or any other PDF of your choice. **[10 mins]**
-
-### Lab 2: Web Scraping with Chrome Scraper Extension (30 mins)
-1. Install the Scraper Extension on your Google Chrome browser and scrape the table from the [Wikipedia List of African Countries by Population](https://en.wikipedia.org/wiki/List_of_African_countries_by_population) or [Ivorian Parliamentary Election 2016](https://en.wikipedia.org/wiki/Ivorian_parliamentary_election,_2016) pages. Save the scraped data locally on Excel or on Google Sheets. **[15 mins]**
-2. Find a partner to discuss the steps you took to get the data from the web page into machine-readable format. **[10 mins]**
-3. **Optional:** Find another web page with a data table and scrape using the Chrome Scraper Extension. **[5 mins]**
-
-### Lab 3: Data Carpentry R Lesson 2: Starting with Data (45 mins)
-1. Read and practice the concepts from [Data Carpentry R Lesson 2: Starting with Data](http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html) with a partner. Ensure that you try out the expressions/commands in RStudio. Make any notes of concepts you have questions on for discuss in the next section. **[35 mins]**
-2. Discuss any questions you have with the facilitator. **[10 mins]**
 
 ## Homework
-1. **Complete the [Data Carpentry R Lesson 2 - Starting with Data](http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html)**:  this will build your skills in R to effective import data in R and perform basic operations on it.
-2. **Download and install [Open Refine](http://openrefine.org/download.html)**: this application will be used in session 3 for data verification and cleaning.
