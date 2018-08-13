@@ -61,9 +61,12 @@ Duration | Activity | Resources | Responsible
 
 ## Lab Exercises
 1. In groups of 2 or 3, complete the [Data Cleaning with Spreadsheets Lab](/labs/data_fundamentals_lab_data_cleaning.pdf). Make note of questions or challenges you faced. NB: The lab exercise PDF can be found in the [session2 data folder](/data/)
+2. In groups of 2 or 2, complete the [Calculate Sums, Ratios and Percentages In Spreadsheets](/labs/data_fundamentals_lab_calculate_sums_rates_and_percentages_in_spreadsheets.pdf)
+
 
 ## Homework
-
+1. Read and practice the concepts from [Data Carpentry Open Refine Lesson](http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/). Ensure that you try out the expressions/commands in Open Refine. Make any notes of concepts you have questions on for discussion in the next section. Discuss any questions you have with your peers.
+2. Complete the [Calculating Averages and Percentage Changes](/labs/data_fundamentals_lab_calculating_averages_and_percentage_changes.pdf) for the next session. Make a list of challenges and questions you have.
 
 ## Resources
 - [Verifying, Cleaning and Analysing Data](/manuals/verifying_cleaning_and_analysing_data.pdf)
