@@ -30,7 +30,7 @@ Duration | Activity | Resources | Responsible
 --------- | ---------------| ----------| ----------
 09:30 – 09:45 pm | Recap of Session 1 concepts | [DCLI Practicum Introduction Slides](https://docs.google.com/presentation/d/1XYAwdjPSdEg8wrYhzduVBqShTgG-Ct5trn6OKv3hJtQ/edit?usp=sharing), [The School of Data Pipeline](https://schoolofdata.org/methodology/) | All
 09:45 – 10:15 | Introduction to Data Verification and Cleaning | [Introduction to Data Verification and Cleaning Slides](https://docs.google.com/presentation/d/1ZFy-y325MgeuvsWg8vTS4YPHwBUuCTxAZ0kl-5ui2tE/edit#slide=id.p4) | Facilitator
-10:15 - 11:00 | Lab Exercise: Data Cleaning with Spreadsheets | [Data Cleaning Lab](/labs/data_fundamentals_lab_data_cleaning.pdf) | Fellows
+10:15 - 11:00 | Lab Exercise: Data Cleaning with Spreadsheets | [Data Cleaning Lab](/labs/data_fundamentals_lab3_data_cleaning.pdf) | Fellows
 11:00 - 11:15 | Break | Restroom | All
 11:15 - 11:35 | OpenRefine Demo | [OpenRefine](http://openrefine.org/) | Facilitator
 11:35 - 12:40 | Lab Exercises | Lab Exercises | Fellows
@@ -60,13 +60,13 @@ Duration | Activity | Resources | Responsible
 
 
 ## Lab Exercises
-1. In groups of 2 or 3, complete the [Data Cleaning with Spreadsheets Lab](/labs/data_fundamentals_lab_data_cleaning.pdf). Make note of questions or challenges you faced. NB: The lab exercise PDF can be found in the [session2 data folder](/data/)
-2. In groups of 2 or 3, complete the [Calculate Sums, Ratios and Percentages In Spreadsheets](/labs/data_fundamentals_lab_calculate_sums_rates_and_percentages_in_spreadsheets.pdf)
+1. In groups of 2 or 3, complete the [Data Cleaning with Spreadsheets Lab](/labs/data_fundamentals_lab3_data_cleaning.pdf). Make note of questions or challenges you faced. NB: The lab exercise PDF can be found in the [session2 data folder](/data/)
+2. In groups of 2 or 3, complete the [Calculate Sums, Ratios and Percentages In Spreadsheets](/labs/data_fundamentals_lab4_calculate_sums_rates_and_percentages_in_spreadsheets.pdf)
 
 
 ## Homework
 1. Read and practice the concepts from [Data Carpentry Open Refine Lesson](http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/). Ensure that you try out the expressions/commands in Open Refine. Make any notes of concepts you have questions on for discussion in the next section. Discuss any questions you have with your peers.
-2. Complete the [Calculating Averages and Percentage Changes](/labs/data_fundamentals_lab_calculating_averages_and_percentage_changes.pdf) for the next session. Make a list of challenges and questions you have.
+2. Complete the [Calculating Averages and Percentage Changes](/labs/data_fundamentals_lab5_calculating_averages_and_percentage_changes.pdf) for the next session. Make a list of challenges and questions you have.
 3. Complete the []
 
 ## Resources
