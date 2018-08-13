@@ -66,7 +66,7 @@ Duration | Activity | Resources | Responsible
 
 ## Homework
 1. Read and practice the concepts from [Data Carpentry Open Refine Lesson](http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/). Ensure that you try out the expressions/commands in Open Refine. Make any notes of concepts you have questions on for discussion in the next section. Discuss any questions you have with your peers.
-2. Complete the [Calculating Averages and Percentage Changes](/labs/data_fundamentals_lab5_calculating_averages_and_percentage_changes.pdf) for the next session. Make a list of challenges and questions you have.
+2. Complete the [Calculating Averages and Percentage Changes](/labs/data_fundamentals_lab5_calculating_averages_and_percentages_changes.pdf) for the next session. Make a list of challenges and questions you have.
 3. Complete the []
 
 ## Resources
