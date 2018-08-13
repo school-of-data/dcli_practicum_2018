@@ -60,5 +60,11 @@ Duration | Activity | Resources | Responsible
 
 
 ## Lab Exercises
+1. In groups of 2 or 3, complete the [Data Cleaning with Spreadsheets Lab](/labs/data_fundamentals_lab_data_cleaning.pdf). Make note of questions or challenges you faced. NB: The lab exercise PDF can be found in the [session2 data folder](/data/)
 
 ## Homework
+
+
+## Resources
+- [Verifying, Cleaning and Analysing Data](/manuals/verifying_cleaning_and_analysing_data.pdf)
+- [Turning Promises Into Action: Gender Equality In The 2030 Agenda for Sustainable Development](http://www.unwomen.org/-/media/headquarters/attachments/sections/library/publications/2018/sdg-report-gender-equality-in-the-2030-agenda-for-sustainable-development-2018-en.pdf?la=en&vs=5653)
