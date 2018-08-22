@@ -4,7 +4,7 @@
 - [Overview](#overview)
 - [Session Outline](#session-outline)
 - [Lab Exercises](#lab-exercises)
-- [Homework](#homework)
+- [Resources](#resources)
 
 ## Overview
 - Wednesday, 22nd August, 2018
