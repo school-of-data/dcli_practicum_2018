@@ -68,7 +68,7 @@ Duration | Activity | Resources | Responsible
 1. Read and practice the concepts from [Data Carpentry Open Refine Lesson](http://www.datacarpentry.org/OpenRefine-ecology-lesson/00-getting-started/). Ensure that you try out the expressions/commands in Open Refine. Make any notes of concepts you have questions on for discussion in the next section. Discuss any questions you have with your peers.
 2. Complete tasks in [Calculating Averages and Percentage Changes](/labs/data_fundamentals_lab5_calculating_averages_and_percentages_changes.pdf) for the next session.
 3. Complete tasks in [Exploring Data in Larger Datasets](/labs/data_fundamentals_lab6_exploring_data_in_larger_datasets.pdf) for next session.
-4. Complete tasks in [Exploring Data with Pivot Tables](/labs/data_fundamentals_lab7_exploring_data_with_pivot_table) for next session.
+4. Complete tasks in [Exploring Data with Pivot Tables](/labs/data_fundamentals_lab7_exploring_data_with_pivot_table.pdf) for next session.
 
 
 ## Resources
