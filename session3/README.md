@@ -48,6 +48,8 @@ Duration | Activity | Resources | Responsible
 
 ## Resources
 1. [Data Fundamentals - Presenting Data](/manuals/presenting_data.pdf)
-2. [PolicyViz DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/)
+2. [PolicyViz DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/): an online resource with summarised tips on visual design principles.
 3. [David Franvois Huynh OpenRefine Tutorial](http://enipedia.tudelft.nl/enipedia/images/d/d0/David_Fran%C3%A7ois_Huynh-Google_Refine-tutorial.pdf)
-4. [The Data Visualisation Catalogue](https://datavizcatalogue.com/methods/bar_chart.html)
+4. [The Data Visualisation Catalogue](https://datavizcatalogue.com/methods/bar_chart.html): an online tool for choosing visualisations or plots based by function or type.
+5. [Noun Project](https://thenounproject.com/): this is free online resource that provides access to icons that can be used for infographics, logos and presentations.
+6. [Color Brewer 2.0](http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3): an online resource for selecting colours to be used in plots especially maps. It contains a feature for colours that are colour-blindness friendly.
