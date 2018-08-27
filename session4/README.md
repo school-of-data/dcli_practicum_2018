@@ -8,8 +8,8 @@
 - [Data Pipeline Process](#data-pipeline-process)
 - [Final Data Insight](#final-data-insight)
 - [Cleaned Dataset](#cleaned-dataset)
- [Project Documentation](#project-documentation)
- - [Presentation](#presentation)
+- [Project Documentation](#project-documentation)
+- [Presentation](#presentation)
 
 ## Overview
 - Wednesday, 29th August, 2018
