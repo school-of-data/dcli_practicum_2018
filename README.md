@@ -49,11 +49,22 @@ Date | Session Number | Description
 
 
 ## Reference Manuals
-- [Data Fundamentals - Introduction to Computer, Web and Spreadsheet Basics](/manuals/introduction_to_computer_web_and_spreadsheet_basics.pdf). Editable Google Doc version [here](https://docs.google.com/document/d/1HtC80TJilQOTHGd58t5WY_Wdi34WBoiTqKJDa2OObCY/edit)
-- [Data Fundamentals - Introduction to Data](/manuals/introduction_to_data.pdf). Editable Google Doc version [here](https://docs.google.com/document/d/1L6Q6Q4k94N9W3_nduSID7bqvxAV1dt4Sc-q3kTApAAU/edit#heading=h.yyhyhww2b730)
-- [Data Fundamentals - Defining, Finding and Getting Data](/manuals/defining_finding_and_getting_data.pdf). Editable Google Doc version [here](https://docs.google.com/document/d/1cAXbbc8u-6QVF0RHV0oNtpw4DkSuWj4E4s5GXA-tPTQ/edit#heading=h.yyhyhww2b730)
-- [Data Fundamentals - Verifying, Cleaning and Analysing Data](/manuals/verifying_cleaning_and_analysing_data.pdf). Editable Google Doc version [here](https://docs.google.com/document/d/1OPEogRmR8VBLPInNPGze5Mo1w9Cxw3BRgs7yy7euuJE/edit)
-- [Data Fundamentals - Presenting Data](/manuals/presenting_data.pdf). Editable Google Doc version [here](https://docs.google.com/document/d/1AOf-84ZnYPC17KEAa5MwFGX5IBpLRbj7DD9q3EZZ5NE/edit)
+- Data Fundamentals - Introduction to Computer, Web and Spreadsheet Basics: [PDF](/manuals/introduction_to_computer_web_and_spreadsheet_basics.pdf) | [Google Doc](https://docs.google.com/document/d/1HtC80TJilQOTHGd58t5WY_Wdi34WBoiTqKJDa2OObCY/edit)
+- Data Fundamentals - Introduction to Data: [PDF](/manuals/introduction_to_data.pdf) | [Google Doc](https://docs.google.com/document/d/1L6Q6Q4k94N9W3_nduSID7bqvxAV1dt4Sc-q3kTApAAU/edit#heading=h.yyhyhww2b730)
+- Data Fundamentals - Defining, Finding and Getting Data: [PDF](/manuals/defining_finding_and_getting_data.pdf) | [Google Doc](https://docs.google.com/document/d/1cAXbbc8u-6QVF0RHV0oNtpw4DkSuWj4E4s5GXA-tPTQ/edit#heading=h.yyhyhww2b730)
+- Data Fundamentals - Verifying, Cleaning and Analysing Data: [PDF](/manuals/verifying_cleaning_and_analysing_data.pdf) | [Google Doc](https://docs.google.com/document/d/1OPEogRmR8VBLPInNPGze5Mo1w9Cxw3BRgs7yy7euuJE/edit)
+- Data Fundamentals - Presenting Data: [PDF](/manuals/presenting_data.pdf) | [Google Doc](https://docs.google.com/document/d/1AOf-84ZnYPC17KEAa5MwFGX5IBpLRbj7DD9q3EZZ5NE/edit)
+
+
+## Lab Manuals
+- Data Fundamentals: Scraping Data From PDFs: [PDF](labs/data_fundamentals_lab1_scraping_data_from_pdfs.pdf) | [Google Doc](https://docs.google.com/document/d/1UGdwQ23RWidUSTrYOtfSFwTuxr15uxkZS9-lG6AY-bA/edit#heading=h.dfeb7eitapyp)
+- Data Fundamentals Lab: Scraping Data from the Web: [PDF](labs/data_fundamentals_lab2_scraping_data_from_the_web.pdf) | [Google Doc](https://docs.google.com/document/d/1Wv2IX4CWHZ4nS_HsF3UScH3ANPbgzvqkFZjlvEvUW7E/edit#heading=h.klqgo15craiv)
+- Data Fundamentals Lab 3: Data Cleaning: [PDF](labs/data_fundamentals_lab3_data_cleaning.pdf) | [Google Doc](https://docs.google.com/document/d/1_MT1rHMfnKV14hdz2xB4aELc4ii72IjKF_MyNr9cm-0/edit#heading=h.1ygfpqlo83k)
+- Data Fundamentals Lab 4: Calculate Sums, Rates and Percentages in Spreadsheets: [PDF](labs/data_fundamentals_lab4_calculate_sums_rates_and_percentages_in_spreadsheets.pdf) | [Google Doc](https://docs.google.com/document/d/18JxZciY-LhEej1OdXMuwDtb5HObPGa4OjbVnuMRNQ-Q/edit#heading=h.24l1611bsiso)
+- Data Fundamentals Lab 5: Calculating Averages and Percentages Changes: [PDF](labs/data_fundamentals_lab5_calculating_averages_and_percentages_changes.pdf) | [Google Doc](https://docs.google.com/document/d/18llpncN4fHDw7ZifyYTzQNCUCzleyFZyJahvCmlnSds/edit#heading=h.9qhw0pbo87q1)
+- Data Fundamentals Lab 6: Exploring Data in Larger Data Sets: [PDF](labs/data_fundamentals_lab6_exploring_data_in_larger_datasets.pdf) | [Google Doc](https://docs.google.com/document/d/1rVZirA3V3TrteVnEmKlmaHsNg-_KFORQ7O-q7HSzGtw/edit)
+- Data Fundamentals Lab 7: Exploring Data with Pivot Table: [PDF](/labs/data_fundamentals_lab7_exploring_data_with_pivot_table.pdf) | [Google Doc](https://docs.google.com/document/d/1xXR2eRpx2eu1Ft174EByPI43HMs-qBJencDo06gmdjI/edit#heading=h.fllvf3bnxaor)
+
 
 ## Online Resources
 - [Visualize This: The FlowingData Guide to Design, Visualization and Statistics ](https://www.amazon.com/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)
