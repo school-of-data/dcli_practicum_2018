@@ -49,11 +49,11 @@ Date | Session Number | Description
 
 
 ## Reference Manuals
-- [Data Fundamentals - Introduction to Computer, Web and Spreadsheet Basics](/manuals/introduction_to_computer_web_and_spreadsheet_basics.pdf)
-- [Data Fundamentals - Introduction to Data](/manuals/introduction_to_data.pdf)
-- [Data Fundamentals - Defining, Finding and Getting Data](/manuals/defining_finding_and_getting_data.pdf)
-- [Data Fundamentals - Verifying, Cleaning and Analysing Data](/manuals/verifying_cleaning_and_analysing_data.pdf)
-- [Data Fundamentals - Presenting Data](/manuals/presenting_data.pdf)
+- [Data Fundamentals - Introduction to Computer, Web and Spreadsheet Basics](/manuals/introduction_to_computer_web_and_spreadsheet_basics.pdf). Editable Google Doc version [here](https://docs.google.com/document/d/1kPjIKVzVtDwJrYdxac8qjCwObPcjeSsRWXZi5b98OS8/edit#heading=h.yyhyhww2b730)
+- [Data Fundamentals - Introduction to Data](/manuals/introduction_to_data.pdf). Editable Google Doc version [here](https://docs.google.com/document/d/1L6Q6Q4k94N9W3_nduSID7bqvxAV1dt4Sc-q3kTApAAU/edit#heading=h.yyhyhww2b730)
+- [Data Fundamentals - Defining, Finding and Getting Data](/manuals/defining_finding_and_getting_data.pdf). Editable Google Doc version [here](https://docs.google.com/document/d/1cAXbbc8u-6QVF0RHV0oNtpw4DkSuWj4E4s5GXA-tPTQ/edit#heading=h.yyhyhww2b730)
+- [Data Fundamentals - Verifying, Cleaning and Analysing Data](/manuals/verifying_cleaning_and_analysing_data.pdf). Editable Google Doc version [here](https://docs.google.com/document/d/1OPEogRmR8VBLPInNPGze5Mo1w9Cxw3BRgs7yy7euuJE/edit)
+- [Data Fundamentals - Presenting Data](/manuals/presenting_data.pdf). Editable Google Doc version [here](https://docs.google.com/document/d/1AOf-84ZnYPC17KEAa5MwFGX5IBpLRbj7DD9q3EZZ5NE/edit)
 
 ## Online Resources
 - [Visualize This: The FlowingData Guide to Design, Visualization and Statistics ](https://www.amazon.com/Visualize-This-FlowingData-Visualization-Statistics/dp/0470944889)
